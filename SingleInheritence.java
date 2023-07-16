@@ -8,7 +8,7 @@ class B extends A { // extending class A for inheriting the properties of class 
   int y = 200;
 }
 
-public class Driver {
+public class SingleInheritence {
 
   public static void main(String args[]) {
     B obj = new B();
