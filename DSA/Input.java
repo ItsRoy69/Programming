@@ -15,6 +15,5 @@ public class Input {
     System.out.print("Please enter some input float number: ");
     float marks = sc.nextFloat();
     System.out.println(marks);
-
   }
 }
